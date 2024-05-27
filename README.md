@@ -13,4 +13,4 @@
 </details>
 
 
-<img align="left" alt="myinan Github Stats" src="https://github-readme-stats-mu-nine-65.vercel.app/api/top-langs/?username=myinan" />
+<img align="left" alt="myinan Github Stats" src="https://github-readme-stats-mu-nine-65.vercel.app/api/top-langs/?username=myinan&theme=radical" />
