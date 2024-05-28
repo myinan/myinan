@@ -4,7 +4,7 @@
 </details>
 
 <details open> 
-  <summary><h2>My Top Projects</h2></summary>
+  ### My Top Projects
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/myinan/github-readme-stats -->
