@@ -4,7 +4,7 @@
 
 ### About Me:
 
-## React Projects
+## My React Projects
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/myinan/github-readme-stats -->
   <p align="left">
@@ -13,6 +13,14 @@
   <p align="left">
     <a href="https://github.com/myinan/cv-app-react"><img width="420" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=cv-app-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cv-app-react"></a>
     <a href="https://github.com/myinan/pokememo-app-react"><img width="420" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=pokememo-app-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pokememo-app-react"></a>
+  </p>
+
+## My Vanilla JavaScript Projects
+  <p align="left">
+    <a href="https://github.com/myinan/to-do-app"><img width="400" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=to-do-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="to-do-app"></a>
+    <a href="https://github.com/myinan/weather-app"><img width="400" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=weather-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="weather-app"></a>
+        <a href="https://github.com/myinan/battleship-game"><img width="400" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=battleship-game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="battleship-game"></a>
+    <a href="https://github.com/myinan/homepage-responsive"><img width="400" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=homepage-responsive&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="homepage-responsive"></a>
   </p>
   
 ---
