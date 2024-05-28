@@ -1,13 +1,6 @@
-<details>
-  <summary>Github Stats</summary>
-  <img align="left" alt="myinan Github Stats" src="https://github-readme-stats-mu-nine-65.vercel.app/api?username=myinan&&hide=stars,prs,issues,contribs&show_icons=true&theme=radical" />
-</details>
-
-
-### My Top Projects
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/myinan/github-readme-stats -->
-<a href="https://github.com/myinan/shopping-app-react"><img width="350" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=shopping-app-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"" alt="shopping-app-react"></a>
-
-
-<img align="left" style="color:blue;text-align:center;" alt="myinan Github Stats" src="https://github-readme-stats-mu-nine-65.vercel.app/api/top-langs/?username=myinan&theme=radical" />
+<p align="center">
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/myinan/github-readme-stats -->
+  <img width="600" height="200" src="https://github-readme-stats-mu-nine-65.vercel.app/api?username=myinan&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats-mu-nine-65.vercel.app/api/top-langs/?username=myinan&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
