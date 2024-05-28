@@ -2,6 +2,15 @@
 ### About Me:
 
 
+
+---
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=myinan&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+---
+
 <p align="center">
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/myinan/github-readme-stats -->
