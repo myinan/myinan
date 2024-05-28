@@ -5,11 +5,9 @@
 
 
 ### My Top Projects
-
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/myinan/github-readme-stats -->
-<p align="left">
 <a href="https://github.com/myinan/shopping-app-react"><img width="350" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=shopping-app-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"" alt="shopping-app-react"></a>
 
 
-<img align="left" alt="myinan Github Stats" src="https://github-readme-stats-mu-nine-65.vercel.app/api/top-langs/?username=myinan&theme=radical" />
+<img align="left" style="color:blue;text-align:center;" alt="myinan Github Stats" src="https://github-readme-stats-mu-nine-65.vercel.app/api/top-langs/?username=myinan&theme=radical" />
