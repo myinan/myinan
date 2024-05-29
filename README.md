@@ -26,9 +26,9 @@
 ## Languages and Technologies I Use
 ### 👨‍💻 Programming and Markup Languages
 <p align="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
   <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
@@ -37,17 +37,37 @@
 ### 🧰 Frameworks and Libraries
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+  <img alt="react-router-dom" src="https://img.shields.io/badge/React%20Router-CA4245.svg?logo=react-router&logoColor=white">
+  <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20UI-319795.svg?logo=chakra-ui&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+  <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093.svg?logo=styled-components&logoColor=white">
+  <img alt="Lodash" src="https://img.shields.io/badge/Lodash-3492FF.svg?logo=lodash&logoColor=white">
+  <img alt="useHooks Library" src="https://img.shields.io/badge/useHooks-000000.svg?logo=react&logoColor=white">
+  <img alt="@testing-library" src="https://img.shields.io/badge/Testing%20Library-E33332.svg?logo=testing-library&logoColor=white">
 </p>
 
 ### 💻 Software and Tools
 <p align="left">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+<img alt="Windows Subsystem for Linux" src="https://img.shields.io/badge/WSL-0A97F5.svg?logo=linux&logoColor=white">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
+<img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3.svg?logo=eslint&logoColor=white">
+<img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E.svg?logo=prettier&logoColor=black">
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white">
+<img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18.svg?logo=vitest&logoColor=white">
+<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black">
+<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
+<img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E.svg?logo=babel&logoColor=black">
+<img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white">
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
+<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
+<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+<img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991.svg?logo=openai&logoColor=white">
+<img alt="Meta AI" src="https://img.shields.io/badge/Meta-1877F2.svg?logo=meta&logoColor=white">
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
 </p>
-  
+
 ---
 
 <p align="center">
