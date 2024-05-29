@@ -3,6 +3,7 @@
 <a href="https://github.com/myinan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F85D7F&random=false&width=550&lines=An+aspiring+frontend+web+developer.;Building+frontend+solutions+with+React." alt="myinan" /></a>
 
 ### About Me:
+Hi! I'm Yasir, a self-taught frontend web developer passionate about building dynamic and responsive web applications. Starting as a hobby, my interest in web development quickly grew into a professional pursuit, and I have taken the initiative to master JavaScript and React through self-directed learning. My journey has been fueled by curiosity and a love for coding, leading me to create a variety of projects that showcase my skills and dedication. You can take a look at these projects from the links below. I'm excited to continue growing as a developer and contributing to innovative web solutions.
 
 ## My React Projects
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
