@@ -68,6 +68,9 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
 </p>
 
+## Web Dev Markdown Notes
+These are notes that i've taken throughout my web development learning journey. I frequently revisit them to refreshen my memory and i think they might prove useful for you too.
+
 ---
 
 <p align="center">
