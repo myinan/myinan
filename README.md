@@ -73,6 +73,7 @@ These are notes that i've taken throughout my web development learning journey. 
   <p align="left">
     <a href="https://github.com/myinan/html-css-markdown"><img width="400" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=html-css-markdown&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="html-css-markdown"></a>
     <a href="https://github.com/myinan/javascript-markdown"><img width="400" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=javascript-markdown&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="javascript-markdown"></a>
+    <a href="https://github.com/myinan/react-markdown"><img width="400" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=react-markdown&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="react-markdown"></a>
   </p>
 
 ---
