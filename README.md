@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Yasir!
 
-<a href="https://github.com/myinan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&random=false&width=550&lines=An+aspiring+frontend+web+developer.;Building+frontend+solutions+with+React." alt="myinan" /></a>
+<a href="https://github.com/myinan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F85D7F&random=false&width=550&lines=An+aspiring+frontend+web+developer.;Building+frontend+solutions+with+React." alt="myinan" /></a>
 
 ### About Me:
 
