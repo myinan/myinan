@@ -5,6 +5,8 @@
 ### About Me:
 Hi! I'm Yasir, a self-taught frontend web developer passionate about building dynamic and responsive web applications. Starting as a hobby, my interest in web development quickly grew into a professional pursuit, and I have taken the initiative to master JavaScript and React through self-directed learning. My journey has been fueled by curiosity and a love for coding, leading me to create a variety of projects that showcase my skills and dedication. You can take a look at these projects from the links below. I'm excited to continue growing as a developer and contributing to innovative web solutions.
 
+You can also view my CV [here](https://github.com/myinan/my-cv-repo/blob/main/myinan_cv.pdf).
+
 ## My React Projects
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/myinan/github-readme-stats -->
