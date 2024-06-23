@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Yasir!
 
-<a href="https://github.com/myinan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F85D7F&random=false&width=550&lines=An+aspiring+frontend+web+developer.;Building+frontend+solutions+with+React." alt="myinan" /></a>
+<a href="https://github.com/myinan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F85D7F&random=false&width=550&lines=An+aspiring+web+developer.;Building+frontend+solutions+with+React." alt="myinan" /></a>
 
 ### About Me:
-Hi! I'm Yasir. I'm a web developer passionate about building dynamic and responsive web applications. Starting as a hobby, my interest in web development quickly grew into a professional pursuit, and I have taken the initiative to master JavaScript and React through self-directed learning. My journey has been fueled by curiosity and a love for coding, leading me to create a variety of projects that showcase my skills and dedication. You can take a look at these projects from the links below. I'm excited to continue growing as a developer and contributing to innovative web solutions.
+Hi! I'm Yasir. I'm a web developer passionate about building dynamic and responsive web applications. Starting as a hobby, my interest in web development quickly grew into a professional pursuit, and I have taken the initiative to master React.js and TypeScript through self-directed learning. My journey has been fueled by curiosity and a love for coding, leading me to create a variety of projects that showcase my skills and dedication. You can take a look at these projects from the links below. I'm excited to continue growing as a developer and contributing to innovative web solutions.
 
 You can also view my CV [here](https://github.com/myinan/my-cv-repo/blob/main/myinan_cv.pdf).
 
@@ -29,12 +29,12 @@ You can also view my CV [here](https://github.com/myinan/my-cv-repo/blob/main/my
 ## Languages and Technologies I Use
 ### 👨‍💻 Programming and Markup Languages
 <p align="left">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
-  <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
 </p>
 
 ### 🧰 Frameworks and Libraries
@@ -61,13 +61,10 @@ You can also view my CV [here](https://github.com/myinan/my-cv-repo/blob/main/my
 <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18.svg?logo=vitest&logoColor=white">
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black">
 <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
-<img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E.svg?logo=babel&logoColor=black">
-<img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white">
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
 <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991.svg?logo=openai&logoColor=white">
-<img alt="Meta AI" src="https://img.shields.io/badge/Meta-1877F2.svg?logo=meta&logoColor=white">
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
 </p>
 
