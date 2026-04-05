@@ -67,26 +67,3 @@ You can also view my CV [here](https://github.com/myinan/my-cv-repo/blob/main/my
 <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991.svg?logo=openai&logoColor=white">
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
 </p>
-
-## Web Dev Markdown Notes
-These are notes that i've taken throughout my web development learning journey. I frequently revisit them to refreshen my memory and i think they might prove useful for you too.
-  <p align="left">
-    <a href="https://github.com/myinan/html-css-markdown"><img width="400" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=html-css-markdown&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="html-css-markdown"></a>
-    <a href="https://github.com/myinan/javascript-markdown"><img width="400" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=javascript-markdown&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="javascript-markdown"></a>
-    <a href="https://github.com/myinan/react-markdown"><img width="400" src="https://github-readme-stats-mu-nine-65.vercel.app/api/pin/?username=myinan&repo=react-markdown&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="react-markdown"></a>
-  </p>
-
----
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=myinan&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
----
-
-<p align="center">
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/myinan/github-readme-stats -->
-  <img width="600" height="200" src="https://github-readme-stats-mu-nine-65.vercel.app/api?username=myinan&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats-mu-nine-65.vercel.app/api/top-langs/?username=myinan&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
