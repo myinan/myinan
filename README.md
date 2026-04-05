@@ -3,7 +3,7 @@
 I am a **Full-Stack Developer** specializing in React, TypeScript, and modern PHP. Developing **Hybrid-Headless E-commerce platforms**—replacing legacy PHP/jQuery monolithic structures with highly reactive, DOM-hydrated React applications. 
 
 * 📫 **Reach me at:** [m.yasir.inan@gmail.com](mailto:m.yasir.inan@gmail.com) | [LinkedIn](https://https://www.linkedin.com/in/myinan/)
-* 📄 **Resume:** [View my CV here](https://github.com/myinan/my-cv-repo)
+* 📄 **Resume:** [View my CV here](https://github.com/myinan/my-cv-repo/blob/main/myinan_resume.pdf)
 
 ---
 
